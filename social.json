@@ -1,0 +1,15 @@
+{
+    "flags": "-HnriE",
+     "patterns": [
+          "facebook.com",
+         "twitter.com",
+         "linkedin.com",
+         "telegram.com",
+         "https://tiktok.com",
+         "github.com",
+         "snapshot.com",
+         "gitlab.com",
+         "instagram.com"
+
+]
+}
