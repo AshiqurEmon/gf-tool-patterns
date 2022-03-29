@@ -1,1 +1,1 @@
-cat *|gf social|awk '{print $3}'|anew|egrep -v '\=|\.js|\%|code-200|\.php|\.asp|\.html'|tr -d []|anew
+cat *|gf social|awk '{print $3}'|anew|egrep -v '\=|\.js|\%|code-200|\.php|\.com$|\.asp|\.html'|tr -d []|anew
