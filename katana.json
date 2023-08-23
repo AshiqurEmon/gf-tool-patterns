@@ -1,0 +1,20 @@
+{
+    "flags": "-iE",
+     "patterns": [
+          ".gz$",
+         ".bin$",
+         ".log$",
+         ".cache$",
+         ".secret",
+         ".db$",
+         ".backup$",
+         ".bkp$",
+         ".yml$",
+         ".json$",
+         ".txt$",
+         ".rar$",
+         ".yml$",
+         ".config$"
+
+]
+}
